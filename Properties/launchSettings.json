@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Negrea_Georgiana_Laura_Lab10M": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5106;https://localhost:7106",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
